@@ -1,0 +1,30 @@
+main>.container {
+    padding: 30px 0;
+}
+
+
+.lead {
+
+    text-align: justify;
+    margin-left: 51px;
+    margin-top: 15px;
+    
+}
+
+.nombre-nombre{
+    
+    margin-left: 51px;
+    margin-top: 15px;
+}
+
+.descuento-descuento {
+    
+    margin-left: 51px;
+    margin-top: 15px;
+}
+
+.precio-precio {
+   
+    margin-left: 51px;
+    margin-top: 15px;
+}
